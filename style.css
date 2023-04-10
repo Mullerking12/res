@@ -126,7 +126,7 @@ h1 {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    margin-left: 80px;
+    margin-left: 140px;
     opacity: 0;
     animation: opacityOn 5s normal forwards;
     animation-delay: 1s;
@@ -152,9 +152,4 @@ h1 {
 .of-100 {
     color: #E8E2E2;
     font-size: 18px;
-}
-@media (max-width: 1440px) {
-    #second {
-        margin-top: 10px;
-    }
 }
